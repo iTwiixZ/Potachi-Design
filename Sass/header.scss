@@ -11,4 +11,9 @@
 
 .fab{
     color: #DCB9FA;
+    transition: all 350ms ease-in;
+    &:hover{
+        transform: scale(1.09);
+    }
 }
+

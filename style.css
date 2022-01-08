@@ -10,6 +10,10 @@
 
 .fab {
   color: #DCB9FA;
+  transition: all 350ms ease-in;
+}
+.fab:hover {
+  transform: scale(1.09);
 }
 
 li {
