@@ -12,4 +12,20 @@
   color: #DCB9FA;
 }
 
+li {
+  list-style: none;
+  font-size: 30px;
+}
+
+.carte {
+  height: 280px;
+  background: #965ae7;
+  background: linear-gradient(138deg, #965ae7 26%, rgba(252, 70, 202, 0.9489559165) 100%);
+}
+
+.titre-carte {
+  font-family: "Indie Flower";
+  font-size: 55px;
+}
+
 /*# sourceMappingURL=style.css.map */
