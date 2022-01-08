@@ -19,13 +19,22 @@ li {
 
 .carte {
   height: 280px;
-  background: #965ae7;
-  background: linear-gradient(138deg, #965ae7 26%, rgba(252, 70, 202, 0.9489559165) 100%);
+  background: #eeaeca;
+  background: linear-gradient(137deg, #eeaeca 0%, #94e9e7 100%);
+  transition: all 250ms ease-in;
+}
+.carte:hover {
+  transform: scale(1.085);
 }
 
 .titre-carte {
   font-family: "Indie Flower";
   font-size: 55px;
+  color: #C976FF;
+}
+
+.liens {
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=style.css.map */
