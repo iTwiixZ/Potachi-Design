@@ -41,4 +41,13 @@ li {
   text-decoration: none;
 }
 
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+.link:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
 /*# sourceMappingURL=style.css.map */
