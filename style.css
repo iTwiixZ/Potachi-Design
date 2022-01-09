@@ -50,4 +50,9 @@ li {
   color: inherit;
 }
 
+.area {
+  resize: none;
+  height: 250px;
+}
+
 /*# sourceMappingURL=style.css.map */
