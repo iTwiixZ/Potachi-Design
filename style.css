@@ -53,6 +53,10 @@ li {
   color: inherit;
 }
 
+.color {
+  color: black;
+}
+
 .area {
   resize: none;
   height: 250px;
