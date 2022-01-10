@@ -1,5 +1,6 @@
 .titre {
   font-family: "Sacramento" !important;
+  font-size: 80px;
 }
 
 .icon {
@@ -16,6 +17,20 @@
   transform: scale(1.09);
 }
 
+@media (min-width: 320px) and (max-width: 480px) {
+  .titre {
+    font-size: 60px;
+  }
+
+  .icon {
+    margin-bottom: -50px;
+    font-size: 35px;
+  }
+
+  .header-flex {
+    flex-direction: column;
+  }
+}
 li {
   list-style: none;
   font-size: 30px;
