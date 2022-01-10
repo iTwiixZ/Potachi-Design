@@ -80,4 +80,10 @@ li {
   font-size: 45px;
 }
 
+footer {
+  height: 80px;
+  margin-top: 20px;
+  background-color: pink;
+}
+
 /*# sourceMappingURL=style.css.map */
