@@ -24,3 +24,11 @@ p{
    position: absolute;
    bottom: 63px;
 }
+
+// MOBILE
+
+@media (min-width: 320px) and (max-width: 480px){
+    .about-footer{
+        margin-top: 90px;
+    }
+}

@@ -147,4 +147,10 @@ p {
   bottom: 63px;
 }
 
+@media (min-width: 320px) and (max-width: 480px) {
+  .about-footer {
+    margin-top: 90px;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
