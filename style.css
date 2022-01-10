@@ -36,6 +36,11 @@
     font-size: 63px;
   }
 }
+@media (min-width: 320px) {
+  .titre {
+    font-size: 53px;
+  }
+}
 li {
   list-style: none;
   font-size: 30px;
