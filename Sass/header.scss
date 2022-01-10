@@ -32,3 +32,9 @@
         flex-direction: column;
     }
 }
+
+@media(min-width:375px){
+    .titre{
+        font-size: 63px;
+    }
+}
