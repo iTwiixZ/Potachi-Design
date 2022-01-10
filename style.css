@@ -114,7 +114,6 @@ li {
 
 footer {
   height: 80px;
-  margin-top: 20px;
   background-color: pink;
 }
 
@@ -139,7 +138,13 @@ p {
 }
 
 .about-footer {
-  margin-top: 97px;
+  margin-top: 249px;
+}
+
+.ours {
+  width: 300px;
+  position: absolute;
+  bottom: 63px;
 }
 
 /*# sourceMappingURL=style.css.map */
