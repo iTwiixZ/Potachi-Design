@@ -112,6 +112,16 @@ li {
   font-size: 45px;
 }
 
+.carousel-fix {
+  margin-top: 65px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .carousel-fix {
+    margin-top: 190px;
+    height: 351px;
+  }
+}
 footer {
   height: 80px;
   background-color: pink;

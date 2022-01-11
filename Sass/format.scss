@@ -2,3 +2,15 @@
     color: #E44FFE;
     font-size: 45px;
 }
+.carousel-fix{
+    margin-top: 65px;
+}
+// MOBILE 
+@media (min-width: 320px) and (max-width: 480px){
+    .carousel-fix{
+        margin-top: 190px;
+        height: 351px;
+    }
+
+   
+}
