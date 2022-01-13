@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "lightbox2": "^2.11.3",
     "sass": "^1.46.0"
   }
 }
