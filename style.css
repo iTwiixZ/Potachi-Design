@@ -267,5 +267,13 @@ p {
     width: 100%;
   }
 }
+@media (min-width: 320px) and (max-width: 480px) {
+  .mobile-price {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
