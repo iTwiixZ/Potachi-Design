@@ -112,14 +112,19 @@ li {
   font-size: 45px;
 }
 
-.carousel-fix {
-  margin-top: 65px;
+.mobile-format {
+  display: none;
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
   .carousel-fix {
     margin-top: 190px;
     height: 351px;
+    display: none;
+  }
+
+  .mobile-format {
+    display: block;
   }
 }
 footer {
