@@ -131,9 +131,13 @@ footer {
   margin-top: 19px;
 }
 
+.test-about {
+  margin-top: 54px;
+}
+
 @media (min-width: 320px) and (max-width: 480px) {
   .test {
-    margin-top: 16px !important;
+    margin-top: 0px;
   }
 }
 p {

@@ -6,10 +6,13 @@ footer{
 .test{
     margin-top: 19px;
 }
+.test-about{
+    margin-top: 54px;
+}
 
 // MOBILE
 @media (min-width: 320px) and (max-width: 480px){
     .test{
-        margin-top: 16px !important;
+        margin-top: 0px;
     }
 }
