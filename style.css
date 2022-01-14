@@ -127,6 +127,15 @@ footer {
   background-color: pink;
 }
 
+.test {
+  margin-top: 19px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .test {
+    margin-top: 16px !important;
+  }
+}
 p {
   font-family: "Quicksand", sans-serif;
 }
