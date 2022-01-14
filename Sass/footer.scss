@@ -9,10 +9,16 @@ footer{
 .test-about{
     margin-top: 54px;
 }
+.footer-format{
+    margin-top: 49px;
+}
 
 // MOBILE
 @media (min-width: 320px) and (max-width: 480px){
     .test{
         margin-top: 0px;
+    }
+    .footer-format{
+        margin-top: 84px;
     }
 }
