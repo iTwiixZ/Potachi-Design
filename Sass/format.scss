@@ -6,6 +6,7 @@
 
 .mobile-format{
     display: none;
+    visibility: hidden;
 }
 // MOBILE 
 @media (min-width: 320px) and (max-width: 480px){
@@ -13,9 +14,11 @@
         margin-top: 190px;
         height: 351px;
         display: none;
+        visibility: hidden;
     }
 
    .mobile-format{
        display: block;
+       visibility: visible;
    }
 }

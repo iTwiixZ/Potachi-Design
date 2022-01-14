@@ -114,6 +114,7 @@ li {
 
 .mobile-format {
   display: none;
+  visibility: hidden;
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -121,10 +122,12 @@ li {
     margin-top: 190px;
     height: 351px;
     display: none;
+    visibility: hidden;
   }
 
   .mobile-format {
     display: block;
+    visibility: visible;
   }
 }
 footer {
