@@ -136,7 +136,7 @@ footer {
 }
 
 .test {
-  margin-top: 19px;
+  margin-top: 50px;
 }
 
 .test-about {
@@ -144,7 +144,7 @@ footer {
 }
 
 .footer-format {
-  margin-top: 49px;
+  margin-top: 80px;
 }
 
 @media (min-width: 320px) and (max-width: 480px) {
@@ -177,7 +177,7 @@ p {
 }
 
 .about-footer {
-  margin-top: 249px;
+  margin-top: 280px;
 }
 
 .ours {
